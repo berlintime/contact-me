@@ -7,7 +7,6 @@
         <p>Facebook: <a href="https://www.facebook.com/Thanapat.Srisuk" target="_blank">Thanapat Srisuk</a></p>
         <p>Instagram: <a href="https://www.instagram.com/th_sila" target="_blank">@th_sila</a></p>
         <h2>Contact My Mother</h2>
-        <p><strong>Aunchalee Srisuk</strong></p>
         <p>Tel: <a href="tel:0866664540">086-666-4540</a></p>
     </div>
 </body>
